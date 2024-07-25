@@ -1,7 +1,7 @@
 ## Hi there, I'm Sameeraa👋
 
 - 🔭 I’m currently working on personal projects and upgrading my skills
-- 🌱 I’m learning Python, React.js, Web development, JS, django.
+- 🌱 I’m learning Python, React.js, Tailwind CSS.
 - 👯 I’m looking to collaborate on side projects
 - 💬 Talk to me about anything! I'm a great listener.
 - ⚡ Fun fact: I'm fluent in three languages and LOVE Nature 🏞️
