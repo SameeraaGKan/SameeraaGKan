@@ -10,7 +10,8 @@
      It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics;
      i.e., it always increases.✨
   
-  [![Sameeraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameeraaGKan)]
+  ![Sameeraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameeraaGKan)
+  ![Sameeraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameeraaGKan&hide=contribs,prs)
 <!--
 
 
