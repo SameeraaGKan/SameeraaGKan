@@ -1,12 +1,14 @@
 ## Hi there, I'm Sameeraa👋
 
-- 🔭 I’m currently working on personal projects and upgrading my skills
-- 🌱 I’m learning Python, React.js, Tailwind CSS.
-- 👯 I’m looking to collaborate on side projects
-- 💬 Talk to me about anything! I'm a great listener.
-- ⚡ Fun fact: I'm fluent in three languages and LOVE Nature 🏞️
+- 🔭 I’m currently working on personal projects.
+- 🌱 Currently exploring Python, Web-development.
+- 👯 I’m looking forward to collaborate for projects
+- 💬 Talk to me about my projects or for future ones.
+- ⚡ Fun fact: I'm fluent in three languages 🏞️
 - Here's a quote I found interesting:
-- ✨Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.✨
+- ✨Software is like entropy:
+     It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics;
+     i.e., it always increases.✨
 <!--
 
 
