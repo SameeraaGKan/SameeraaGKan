@@ -11,7 +11,7 @@
      i.e., it always increases.✨
   
   ![Sameeraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameeraaGKan&hide=contribs,prs,issues)
-  ![Sameeraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameeraaGKan&show_icons=true&theme=radical)
+  ![Sameeraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameeraaGKan&show_icons=true&theme=dark&hide=contribs,prs,issues)
 <!--
 
 
