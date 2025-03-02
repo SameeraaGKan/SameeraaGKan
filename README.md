@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hello there! I am Sameeraa..<br><br>🔭 I’m currently working on personal projects.<br><br>🌱 Currently exploring Python, Web-development.<br><br>👯 I’m looking forward to collaborate for projects<br><br>💬 Talk to me about my projects or for future ones.<br><br>⚡ Fun fact: I'm fluent in three languages 🏞️<br><br>Here's a quote I found interesting:<br><br>✨Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.✨<br><br>
+👋Hello there! I am Sameeraa..<br><br>🔭 I’m currently working on personal projects.<br><br>🌱 Currently exploring Python, Web-development.<br><br>👯 I’m looking forward to collaborate for projects<br><br>⚡ Fun fact: I'm fluent in three languages 🏞️<br><br>Here's a quote I found interesting:<br><br>✨Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.✨<br><br>
 
 
 # 💻 Tech Stack:
