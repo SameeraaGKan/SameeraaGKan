@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sameeraa
 
-> Building, refactoring, and learning — mostly driven by curiosity (and coffee ☕)
+> Building, refactoring, and learning — mostly driven by curiosity (and decaf coffee ☕)
 
 🔭 Exploring new technologies and enjoying the brilliant creations of fellow humans  
 🌱 Constantly learning, experimenting, and refining my craft  
