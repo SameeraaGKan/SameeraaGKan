@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sameeraa
 
-> Building, breaking, and learning — mostly driven by curiosity (and coffee ☕)
+> Building, breaking, and learning — mostly driven by curiosity (and decaf coffee ☕)
 
 🔭 Exploring new technologies and enjoying the brilliant creations of fellow humans  
 🌱 Constantly learning, experimenting, and refining my craft  
@@ -46,7 +46,7 @@
 ## 🧩 Currently Interested In
 - AI/ML systems and experimentation  
 - Building simple interfaces for complex ideas  
-- Learning by doing (and occasionally breaking things)
+- Learning by doing :)
 
 ---
 
