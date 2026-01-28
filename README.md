@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hello there! I am Sameeraa :)<br><br>🔭 Always learning, experimenting, and having fun along the way. <br><br>🌱 Having fun in <br><br>👯 Curious about different corners of AI/ML and eager to keep expanding my understanding.<br><br>⚡ Fun fact: I’ve lived across 3 continents in my lifetime🏞️<br><br>A quote I find both amusing and painfully accurate:<br><br> ✨"Computers do exactly what we tell them to, which is not always what we meant" XD <br><br>
+👋Hello there! I am Sameeraa :)<br><br>🔭 Always learning, experimenting, and having fun along the way. <br><br>👯 Curious about different corners of AI/ML and eager to keep expanding my understanding.<br><br>⚡ Fun fact: I’ve lived across 3 continents in my lifetime🏞️<br><br>A quote I find both amusing and painfully accurate:<br><br> ✨"Computers do exactly what we tell them to, which is not always what we meant" XD <br><br>
 
 
 # 💻 Tech Stack:
