@@ -44,7 +44,7 @@
 ---
 
 ## 🧩 Currently Interested In
-- AI/ML systems and experimentation  
+- AI/ML systems and innovation using technology  
 - Building simple interfaces for complex ideas  
 - Learning by doing (and occasionally breaking things)
 
