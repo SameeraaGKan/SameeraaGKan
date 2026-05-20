@@ -2,138 +2,62 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=hey%2C+i'm+sameera;building+cool+things+on+the+internet;ai+%2B+systems+%2B+creative+tech;always+learning+something+new" />
 
-<br/>
+> Building, refactoring, and learning — mostly driven by curiosity (and decaf coffee ☕)
 
-```ascii
-   _____                                  _____ _  __           
-  / ____|                                / ____| |/ /           
- | (___   __ _ _ __ ___   ___  ___ _ __ | |  __| ' / __ _ _ __  
-  \___ \ / _` | '_ ` _ \ / _ \/ _ \ '_ \| | |_ |  < / _` | '_ \ 
-  ____) | (_| | | | | | |  __/  __/ |_) | |__| | . \ (_| | | | |
- |_____/ \__,_|_| |_| |_|\___|\___| .__/ \_____|_|\_\__,_|_| |_|
-                                   | |                           
-                                   |_|                           
-```
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=SameeraaGKan&label=profile+views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/SameeraaGKan?style=flat&color=1f6feb" />
-  <img src="https://img.shields.io/github/stars/SameeraaGKan?style=flat&color=facc15" />
-</p>
-
-<img src="https://img.shields.io/badge/📍-Dallas%2C%20TX-161b22?style=for-the-badge&labelColor=0d1117&color=1f6feb"/>
-<img src="https://img.shields.io/badge/🎓-CS%20@%20UTD%20'27-161b22?style=for-the-badge&labelColor=0d1117&color=7c3aed"/>
-<img src="https://img.shields.io/badge/🏆-MLH%20Best%20Domain%20Winner-161b22?style=for-the-badge&labelColor=0d1117&color=f59e0b"/>
-<img src="https://img.shields.io/badge/☕-powered%20by%20decaf-161b22?style=for-the-badge&labelColor=0d1117&color=238636"/>
-
-</div>
+🔭 Exploring new technologies and enjoying the brilliant creations of fellow humans  
+🌱 Constantly learning, experimenting, and refining my craft  
+🧠 Interested in different corners of **AI/ML** and how systems learn at scale  
+⚡ Fun fact: I’ve lived across **three continents** 🏞️  
 
 ---
 
-## `whoami`
+## 💻 Tech Stack
 
-```yaml
-name:        Sameera
-focus:       AI/ML • systems • full-stack engineering
-currently:   building things that make me say "wait that's actually cool"
-learning:    scalable ML systems + applied AI
-roles:
-  - Dev Coordinator @ WeHack
-  - ACM Officer
-  - Web Content Team @ JSOM
+### 🧠 Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-fun_fact:
-  lived across three continents 🌍
-```
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+### 🛠 Backend & Tools
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-## `tech stack`
+### 🎨 Design & Analytics
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<div align="center">
-
-### languages
-
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,r,postgres&theme=dark" />
-
-### frontend + creative tech
-
-<img src="https://skillicons.dev/icons?i=react,nuxtjs,tailwind,vite,figma,blender&theme=dark" />
-
-### backend + databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,postgres&theme=dark" />
-
-### ml + data
-
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark" />
-
-</div>
+### ☁️ Deployment & Environment
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
 
-## `currently exploring`
-
-```txt
-> machine learning infrastructure
-> recommendation systems
-> human-centered AI
-> interactive web experiences
-> making side projects at 2am
-```
+## 🧩 Currently Interested In
+- AI/ML systems and innovation using technology  
+- Building simple interfaces for complex ideas  
+- Learning by doing (and occasionally breaking things)
 
 ---
 
-## `github analytics`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SameeraaGKan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameeraaGKan&layout=compact&theme=github_dark&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SameeraaGKan&theme=github-dark-blue&hide_border=true" />
-
-</div>
+## ✍️ Words I Like to Remember
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 
-## `a random thought`
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-## `connect`
-
-<div align="center">
-
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://devpost.com">
-  <img src="https://img.shields.io/badge/devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"/>
-</a>
-
-<a href="https://yourwebsite.com">
-  <img src="https://img.shields.io/badge/portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```txt
-building • breaking • rebuilding • repeating
-```
+🖤 Thanks for stopping by  
+[![](https://visitcount.itsvg.in/api?id=SameeraaGKan&icon=6&color=9)](https://visitcount.itsvg.in)
 
 </div>
