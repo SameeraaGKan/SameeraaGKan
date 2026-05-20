@@ -1,59 +1,93 @@
-# 👋 Hi, I’m Sameeraa
+<div align="center">
 
-> Building, refactoring, and learning — mostly driven by curiosity (and decaf coffee ☕)
+```
+ ___  __ _ _ __ ___   ___  ___ _ __ __ _  __ _
+/ __|/ _` | '_ ` _ \ / _ \/ _ \ '__/ _` |/ _` |
+\__ \ (_| | | | | | |  __/  __/ | | (_| | (_| |
+|___/\__,_|_| |_| |_|\___|\___|_|  \__,_|\__,_|
+```
 
-🔭 Exploring new technologies and enjoying the brilliant creations of fellow humans  
-🌱 Constantly learning, experimenting, and refining my craft  
-🧠 Interested in different corners of **AI/ML** and how systems learn at scale  
-⚡ Fun fact: I’ve lived across **three continents** 🏞️  
+*building, refactoring, learning — mostly driven by curiosity (and decaf ☕)*
+
+![Location](https://img.shields.io/badge/📍-Dallas%2C%20TX%20·%20CS%20@%20UTD%202027-0d1117?style=flat-square&labelColor=161b22&color=1f6feb)
+&nbsp;
+![Status](https://img.shields.io/badge/🟢-open%20to%20connect-0d1117?style=flat-square&labelColor=161b22&color=238636)
+&nbsp;
+![Award](https://img.shields.io/badge/🏆-MLH%20Best%20Domain%20·%20WEHack%202024-0d1117?style=flat-square&labelColor=161b22&color=9e6a03)
+
+</div>
 
 ---
 
-## 💻 Tech Stack
+### `// about`
 
-### 🧠 Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+```yaml
+exploring:  AI/ML and how systems learn at scale
+roles:      dev coord @ WeHack · ACM officer · web content @ JSOM
+fun_fact:   lived across three continents — curiosity travels well 🌍
+```
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
-### 🛠 Backend & Tools
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### `// tech stack`
+
+**Languages**
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+**Frontend & 3D**
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+**Backend & Databases**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 🎨 Design & Analytics
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### ☁️ Deployment & Environment
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+**ML & Data**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
-## 🧩 Currently Interested In
-- AI/ML systems and innovation using technology  
-- Building simple interfaces for complex ideas  
-- Learning by doing (and occasionally breaking things)
+### `// stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SameeraaGKan&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SameeraaGKan&theme=github_dark&hide_border=true&layout=compact)
+
+</div>
 
 ---
 
-## ✍️ Words I Like to Remember
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+### `// words i like to remember`
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 
-🖤 Thanks for stopping by  
-[![](https://visitcount.itsvg.in/api?id=SameeraaGKan&icon=6&color=9)](https://visitcount.itsvg.in)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![Visits](https://visitcount.itsvg.in/api?id=SameeraaGKan&icon=6&color=9)](https://visitcount.itsvg.in)
+
+🖤 *thanks for stopping by*
+
+</div>
