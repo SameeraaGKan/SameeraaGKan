@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=hey%2C+i'm+sameera;building+cool+things+on+the+internet;ai+%2B+systems+%2B+creative+tech;always+learning+something+new" />
 
