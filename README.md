@@ -76,6 +76,5 @@
 
 🖤 Thanks for stopping by
 
-[![](https://visitcount.itsvg.in/api?id=SameeraaGKan&icon=6&color=9)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=SameeraaGKan&color=blueviolet&style=flat-square)
 </div>
