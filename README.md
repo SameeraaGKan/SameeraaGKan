@@ -73,7 +73,7 @@
 
 <br />
 
-## ✍️ Words I Like to Remember
+## ✍️ Interesting quotes
 
 <div align="center">
 
