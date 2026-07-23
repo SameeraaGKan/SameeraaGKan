@@ -73,7 +73,7 @@
 
 <br />
 
-## ✍️ Interesting quotes
+## ✍️ Interesting quotes:
 
 <div align="center">
 
@@ -85,7 +85,7 @@
 
 <div align="center">
 
-🖤 Thanks for stopping by
+🖤 Thanks for stopping by :) 
 
 ![](https://komarev.com/ghpvc/?username=SameeraaGKan&color=blueviolet&style=flat-square)
 </div>
